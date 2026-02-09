@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 
 const products = [
-  { id: 1, name: 'Premium Rice', price: 600, img: 'https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=500&q=80' },
-  { id: 2, name: 'Maize Flour', price: 300, img: 'https://images.unsplash.com/photo-1594489428504-5c0c480a15fd?auto=format&fit=crop&w=500&q=80' },
-  { id: 3, name: 'Refined Sugar', price: 500, img: 'https://images.unsplash.com/photo-1581447100595-3a74a5af060f?auto=format&fit=crop&w=500&q=80' },
-  { id: 4, name: 'Cooking Oil', price: 500, img: 'https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=500&q=80' },
+  { id: 1, name: 'Premium Rice', price: 600, img: 'https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124449389/124449389.jpg' },
+  { id: 2, name: 'Maize Flour', price: 300, img: 'https://bestbuyltd.com/wp-content/uploads/2023/12/ajab-maize-flour-2kg-wholesale-nairobi-kenya.jpg' },
+  { id: 3, name: 'Refined Sugar', price: 500, img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-DqkLT8pb5fPjaaZIrxm3bSYVbdkVUubuQ&s' },
+  { id: 4, name: 'Cooking Oil', price: 500, img: 'https://cdn.mafrservices.com/sys-master-root/hbe/h8c/17384320008222/21022_main.jpg?im=Resize=376' },
 ];
 
 const App = () => {
