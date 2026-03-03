@@ -213,7 +213,7 @@ const App = () => {
               <div className="space-y-4 font-bold text-sm">
                 <p>📍 Nairobi, Kenya</p>
                 <p>📞 +254 113 362 038</p>
-                <p>✉️ hello@capitalstore.co.ke</p>
+                <p>✉️ lawrencebrian135@gmail.com</p>
               </div>
             </div>
             <form className="space-y-4 bg-white/5 p-10 rounded-[2rem] backdrop-blur-md border border-white/10" onSubmit={(e) => e.preventDefault()}>
